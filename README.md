@@ -1,0 +1,2 @@
+# HSE-AI4ES-F2025
+AI4ES course, fall 2025
