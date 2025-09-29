@@ -14,9 +14,12 @@ Artificial intelligence for Earth Sciences F2025 by [Mikhail Krinitskiy](https:/
 | Title | Date | Topic | Content |
 | ----- | ---- | ----- | ------- |
 |  |  | **I модуль** |  |
-| Лекция 1 | 05.09.2025 | ИИ в науках о Земле: старт и контекст | [материалы]() |
-| Лекция 2 | 05.09.2025 | Основные подходы машинного обучения и их применение в Earth Sciences | [материалы]() |
+| Лекция 1 | 05.09.2025 | ИИ в науках о Земле: старт и контекст | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect01) |
+| Лекция 2 | 05.09.2025 | Основные подходы машинного обучения и их применение в Earth Sciences | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect02) |
 | Семинар 1 | 05.09.2025 | Технические основы анализа данных. Сервер Jupyter notebook как инструмент. |  |
+| Лекция 3 | 19.09.2025 | Постановка задач машинного обучения | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect03)<br />[видеозапись](https://ml4es.ru/links/2025-09-19-hse-ai4es-lect03) |
+| Лекция 4 | 19.09.2025 | Формализация задач геофизики в терминах машинного обучения | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect04)<br />[видеозапись](https://ml4es.ru/links/2025-09-19-hse-ai4es-lect04) |
+| Семинар 2 | 19.09.2025 | Разведочный анализ данных | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar02)<br />[видеозапись](https://ml4es.ru/links/2025-09-19-hse-ai4es-seminar02) |
 
 
 
