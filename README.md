@@ -20,6 +20,9 @@ Artificial intelligence for Earth Sciences F2025 by [Mikhail Krinitskiy](https:/
 | Лекция 3 | 19.09.2025 | Постановка задач машинного обучения | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect03)<br />[видеозапись](https://ml4es.ru/links/2025-09-19-hse-ai4es-lect03) |
 | Лекция 4 | 19.09.2025 | Формализация задач геофизики в терминах машинного обучения | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect04)<br />[видеозапись](https://ml4es.ru/links/2025-09-19-hse-ai4es-lect04) |
 | Семинар 2 | 19.09.2025 | Разведочный анализ данных | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar02)<br />[видеозапись](https://ml4es.ru/links/2025-09-19-hse-ai4es-seminar02) |
+| Лекция 5 | 26.09.2025 | Генеративное моделирование: задача аппроксимации распределения данных | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect05) |
+| Лекция 6 | 26.09.2025 | Линейная регресси как вероятностная модель машинного обучения | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect06)<br />[видеозапись](https://ml4es.ru/links/2025-09-26-hse-ai4es-lect06) |
+| Семинар 3 | 26.09.2025 | Разведочный анализ данных: визуализация, кластеризация | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar03)<br />[видеозапись](https://ml4es.ru/links/2025-09-26-hse-ai4es-seminar03) |
 
 
 
