@@ -21,8 +21,15 @@ Artificial intelligence for Earth Sciences F2025 by [Mikhail Krinitskiy](https:/
 | Лекция 4 | 19.09.2025 | Формализация задач геофизики в терминах машинного обучения | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect04)<br />[видеозапись](https://ml4es.ru/links/2025-09-19-hse-ai4es-lect04) |
 | Семинар 2 | 19.09.2025 | Разведочный анализ данных | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar02)<br />[видеозапись](https://ml4es.ru/links/2025-09-19-hse-ai4es-seminar02) |
 | Лекция 5 | 26.09.2025 | Генеративное моделирование: задача аппроксимации распределения данных | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect05) |
-| Лекция 6 | 26.09.2025 | Линейная регресси как вероятностная модель машинного обучения | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect06)<br />[видеозапись](https://ml4es.ru/links/2025-09-26-hse-ai4es-lect06) |
+| Лекция 6 | 26.09.2025 | Линейная регрессия как вероятностная модель машинного обучения | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect06)<br />[видеозапись](https://ml4es.ru/links/2025-09-26-hse-ai4es-lect06) |
 | Семинар 3 | 26.09.2025 | Разведочный анализ данных: визуализация, кластеризация | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar03)<br />[видеозапись](https://ml4es.ru/links/2025-09-26-hse-ai4es-seminar03) |
+| Лекция 7 | 03.10.2025 |  | [видеозапись](https://ml4es.ru/links/2025-10-03-hse-ai4es-lect07)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect07) |
+| Лекция 8 | 03.10.2025 |  | [видеозапись](https://ml4es.ru/links/2025-10-03-hse-ai4es-lect08)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect08) |
+| Семинар 4 | 03.10.2025 |  | [видеозапись](https://ml4es.ru/links/2025-10-03-hse-ai4es-seminar04)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar04) |
+| Лекция 9 | 10.10.2025 |  | [видеозапись](https://ml4es.ru/links/2025-10-10-hse-ai4es-lect09)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect09) |
+| Лекция 10 | 10.10.2025 |  | [видеозапись](2025-10-10-hse-ai4es-lect10)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect10) |
+| Семинар 5 | 10.10.2025 | Разбор ДЗ №1<br />Обучение и валидация модели МО на реальных данных | [видеозапись](https://ml4es.ru/links/2025-10-05-hse-ai4es-seminar05)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar05) |
+| ДЗ №1 | 10.10.2025<br />Дедлайн: **24.10.2025** | Оценка неопределенностей в задачах машинного обучения<br />на примере модели линейной регрессии | [Формулировка](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/HW01)<br />[Доска достижений]() |
 
 
 
