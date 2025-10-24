@@ -30,6 +30,8 @@ Artificial intelligence for Earth Sciences F2025 by [Mikhail Krinitskiy](https:/
 | Лекция 10 | 10.10.2025 |  | [видеозапись](https://ml4es.ru/links/2025-10-10-hse-ai4es-lect10)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect10) |
 | Семинар 5 | 10.10.2025 | Разбор ДЗ №1<br />Обучение и валидация модели МО на реальных данных | [видеозапись](https://ml4es.ru/links/2025-10-10-hse-ai4es-seminar05)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar05) |
 | ДЗ №1 | 10.10.2025<br />Дедлайн: **24.10.2025** | Оценка неопределенностей в задачах машинного обучения<br />на примере модели линейной регрессии | [Формулировка](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/HW01)<br />[Доска достижений]() |
+| Лекция 11 | 17.10.2025 | Градиентный спуск и основы оптимизации параметрических моделей | [видеозапись](https://ml4es.ru/links/2025-10-17-hse-ai4es-lect11)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect11) |
+| Лекция 12 | 17.10.2025 | От градиентной оптимизации к задачам классификации: неопределённость параметров, метод k ближайших соседей и байесовский классификатор | [видеозапись](https://ml4es.ru/links/2025-10-17-hse-ai4es-lect12)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect12) |
 
 
 
