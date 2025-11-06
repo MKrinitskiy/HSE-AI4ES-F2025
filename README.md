@@ -33,6 +33,9 @@ Artificial intelligence for Earth Sciences F2025 by [Mikhail Krinitskiy](https:/
 | ДЗ №2 | 10.10.2025<br />Дедлайн: **24.10.2025** -> **31.10.2025** | Оценка неопределенностей в задачах машинного обучения<br />на примере модели линейной регрессии | [Формулировка](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/HW02)<br />[Доска достижений]() |
 | Лекция 11 | 17.10.2025 | Градиентный спуск и основы оптимизации параметрических моделей | [видеозапись](https://ml4es.ru/links/2025-10-17-hse-ai4es-lect11)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect11) |
 | Лекция 12 | 17.10.2025 | От градиентной оптимизации к задачам классификации: неопределённость параметров, метод k ближайших соседей и байесовский классификатор | [видеозапись](https://ml4es.ru/links/2025-10-17-hse-ai4es-lect12)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect12) |
+| Лекция 13 | 24.10.2025 |  | [видеозапись](https://ml4es.ru/links/2025-10-24-hse-ai4es-lect13)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect13) |
+| Лекция 14 | 24.10.2025 |  | [видеозапись](https://ml4es.ru/links/2025-10-24-hse-ai4es-lect14)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect14) |
+| Семинар 6 | 24.10.2025 |  | [видеозапись](https://ml4es.ru/links/2025-10-24-hse-ai4es-seminar06)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar06) |
 
 
 
