@@ -35,7 +35,13 @@ Artificial intelligence for Earth Sciences F2025 by [Mikhail Krinitskiy](https:/
 | Лекция 12 | 17.10.2025 | От градиентной оптимизации к задачам классификации: неопределённость параметров, метод k ближайших соседей и байесовский классификатор | [видеозапись](https://ml4es.ru/links/2025-10-17-hse-ai4es-lect12)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect12) |
 | Лекция 13 | 24.10.2025 |  | [видеозапись](https://ml4es.ru/links/2025-10-24-hse-ai4es-lect13)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect13) |
 | Лекция 14 | 24.10.2025 |  | [видеозапись](https://ml4es.ru/links/2025-10-24-hse-ai4es-lect14)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect14) |
-| Семинар 6 | 24.10.2025 |  | [видеозапись](https://ml4es.ru/links/2025-10-24-hse-ai4es-seminar06)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar06) |
+| Семинар 7 | 24.10.2025 |  | [видеозапись](https://ml4es.ru/links/2025-10-24-hse-ai4es-seminar07)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar07) |
+| Лекция 15 | 07.11.2025 | Оценка качества в задачах классификации | [видеозапись](https://ml4es.ru/links/2025-11-07-hse-ai4es-lect15)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect15) |
+| Лекция 16 | 07.11.2025 | Непараметрические модели машинного обучения: деревья решений | [видеозапись](https://ml4es.ru/links/2025-11-07-hse-ai4es-lect16)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect16) |
+| Семинар 8 | 07.11.2025 | | [видеозапись](https://ml4es.ru/links/2025-11-07-hse-ai4es-seminar08)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar08) |
+| Лекция 17 | 14.11.2025 | Ансамбли моделей (stacking, bagging, random subspace, Random Forest) | [видеозапись](https://ml4es.ru/links/2025-11-14-hse-ai4es-lect17)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect17) |
+| Лекция 18 | 14.11.2025 | Градиентный бустинг.<br />Обобщенные линейные модели -> обобщенные аддитивные модели -> Искусственные нейронные сети. | [видеозапись](https://ml4es.ru/links/2025-11-14-hse-ai4es-lect18)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect18) |
+| Семинар 9 | 14.11.2025 | Прогноз временного ряда с использованием ансамблевых моделей и нейросетей | [видеозапись](https://ml4es.ru/links/2025-11-14-hse-ai4es-Seminar09)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar09) |
 
 
 
