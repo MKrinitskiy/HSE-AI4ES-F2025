@@ -43,6 +43,9 @@ Artificial intelligence for Earth Sciences F2025 by [Mikhail Krinitskiy](https:/
 | Лекция 18 | 14.11.2025 | Градиентный бустинг.<br />Обобщенные линейные модели -> обобщенные аддитивные модели -> Искусственные нейронные сети. | [видеозапись](https://ml4es.ru/links/2025-11-14-hse-ai4es-lect18)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect18) |
 | Семинар 9 | 14.11.2025 | Прогноз временного ряда с использованием ансамблевых моделей и нейросетей | [видеозапись](https://ml4es.ru/links/2025-11-14-hse-ai4es-Seminar09)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar09) |
 | ДЗ №3 | 21.11.2025 | Решение задачи прогноза временного ряда с оценкой неопределенностей и сравнением моделей | [Формулировка](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/HW03)<br />[Доска достижений]() |
+| Лекция 19 | 21.11.2025 | Многослойный перцептрон<br />Градиентная оптимизация параметрических моделей: градиентный спуск (GD), стохастический градиентный спуск (SGD) | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect19) |
+| Лекция 20 | 21.11.2025 | Pytorch для конфигурирования, обучения и вычисления искусственных нейронных сетей - часть 1. | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect20) |
+| Семинар 10 | 21.11.2025 | Применение классических моделей МО в задаче прогнозирования временных рядов | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar10) |
 
 
 
