@@ -42,6 +42,7 @@ Artificial intelligence for Earth Sciences F2025 by [Mikhail Krinitskiy](https:/
 | Лекция 17 | 14.11.2025 | Ансамбли моделей (stacking, bagging, random subspace, Random Forest) | [видеозапись](https://ml4es.ru/links/2025-11-14-hse-ai4es-lect17)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect17) |
 | Лекция 18 | 14.11.2025 | Градиентный бустинг.<br />Обобщенные линейные модели -> обобщенные аддитивные модели -> Искусственные нейронные сети. | [видеозапись](https://ml4es.ru/links/2025-11-14-hse-ai4es-lect18)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect18) |
 | Семинар 9 | 14.11.2025 | Прогноз временного ряда с использованием ансамблевых моделей и нейросетей | [видеозапись](https://ml4es.ru/links/2025-11-14-hse-ai4es-Seminar09)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar09) |
+| ДЗ №3 | 21.11.2025 | Решение задачи прогноза временного ряда с оценкой неопределенностей и сравнением моделей | [Формулировка](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/HW03)<br />[Доска достижений]() |
 
 
 
