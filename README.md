@@ -7,7 +7,7 @@ Artificial intelligence for Earth Sciences F2025 by [Mikhail Krinitskiy](https:/
 
 [Правила распространения источников](./resources_policy.md)<br />
 
-
+[ЗДЕСЬ](./leaderboard_1semester.md) доступна доска достижений по всем ДЗ за семестр
 
 -------
 
@@ -23,7 +23,7 @@ Artificial intelligence for Earth Sciences F2025 by [Mikhail Krinitskiy](https:/
 | Лекция 5 | 26.09.2025 | Генеративное моделирование: задача аппроксимации распределения данных | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect05) |
 | Лекция 6 | 26.09.2025 | Линейная регрессия как вероятностная модель машинного обучения | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect06)<br />[видеозапись](https://ml4es.ru/links/2025-09-26-hse-ai4es-lect06) |
 | Семинар 3 | 26.09.2025 | Разведочный анализ данных: визуализация, кластеризация | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar03)<br />[видеозапись](https://ml4es.ru/links/2025-09-26-hse-ai4es-seminar03) |
-| ДЗ №1 | 26.09.2025<br />Дедлайн: **03.10.2025** | Вывод функции потерь линейной регрессии в предположении о распределении шума по Лапласу |  |
+| ДЗ №1 | 26.09.2025<br />Дедлайн: **03.10.2025** | Вывод функции потерь линейной регрессии в предположении о распределении шума по Лапласу | [условие](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/HW01)<br />[доска достижений](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/HW01/leaderboard.md) |
 | Лекция 7 | 03.10.2025 | Признаковое описание и этап порождения признаков | [видеозапись](https://ml4es.ru/links/2025-10-03-hse-ai4es-lect07)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect07) |
 | Лекция 8 | 03.10.2025 | Подготовка данных, стратегии разбиения выборок и основы оценки неопределённости | [видеозапись](https://ml4es.ru/links/2025-10-03-hse-ai4es-lect08)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect08) |
 | Семинар 4 | 03.10.2025 |  | [видеозапись](https://ml4es.ru/links/2025-10-03-hse-ai4es-seminar04)<br />[материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar04) |
