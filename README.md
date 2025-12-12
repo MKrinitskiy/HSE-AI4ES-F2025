@@ -46,9 +46,12 @@ Artificial intelligence for Earth Sciences F2025 by [Mikhail Krinitskiy](https:/
 | Лекция 19 | 21.11.2025 | Многослойный перцептрон<br />Градиентная оптимизация параметрических моделей: градиентный спуск (GD), стохастический градиентный спуск (SGD) | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect19)<br />[видеозапись](https://ml4es.ru/links/2025-11-21-hse-ai4es-lect19) |
 | Лекция 20 | 21.11.2025 | Pytorch для конфигурирования, обучения и вычисления искусственных нейронных сетей - часть 1. | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect20)<br />[видеозапись](https://ml4es.ru/links/2025-11-21-hse-ai4es-lect20) |
 | Семинар 10 | 21.11.2025 | Формулировка, разбор ДЗ №3<br />Применение классических моделей МО в задаче прогнозирования временных рядов | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar10)<br />[видеозапись](https://ml4es.ru/links/2025-11-21-hse-ai4es-seminar10) |
-| Лекция 21 | 28.11.2025 |  | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect21)<br />[видеозапись](https://ml4es.ru/links/2025-11-28-hse-ai4es-lect21) |
-| Лекция 22 | 28.11.2025 |  | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect22)<br />[видеозапись](https://ml4es.ru/links/2025-11-28-hse-ai4es-lect22) |
-| Семинар 11 | 28.11.2025 |  | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar11)<br />[видеозапись](https://ml4es.ru/links/2025-11-28-hse-ai4es-seminar11) |
+| Лекция 21 | 28.11.2025 | Организация обучения ИНС в pytorch | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect21)<br />[видеозапись](https://ml4es.ru/links/2025-11-28-hse-ai4es-lect21) |
+| Лекция 22 | 28.11.2025 | Организация обучения ИНС в pytorch | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect22)<br />[видеозапись](https://ml4es.ru/links/2025-11-28-hse-ai4es-lect22) |
+| Семинар 11 | 28.11.2025 | Tensorboard для мониторинга процесса оптимизации нейросетей | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar11)<br />[видеозапись](https://ml4es.ru/links/2025-11-28-hse-ai4es-seminar11) |
+| Лекция 23 | 05.12.2025 | Свойства ландшафта функции потерь глубоких искусственных нейронных сетей | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect23)<br />[видеозапись](https://ml4es.ru/links/2025-12-05-hse-ai4es-lect23) |
+| Лекция 24 | 05.21.2025 | Расписание шага градиентной оптимизации.<br />Технические особенности расчета градиентов в pytorch. | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Lect24)<br />[видеозапись](https://ml4es.ru/links/2025-12-05-hse-ai4es-lect24) |
+| Семинар 12 | 05.21.2025 | Алгоритмы градиентной оптимизации: GD, SGD, momentum, Adam<br />Организация обучения ИНС в pytorch | [материалы](https://github.com/MKrinitskiy/HSE-AI4ES-F2025/tree/main/Seminar12)<br />[видеозапись](https://ml4es.ru/links/2025-12-05-hse-ai4es-seminar12) |
 
 
 
